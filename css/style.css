@@ -19,6 +19,11 @@ main {
   transition: all 0.2s;
 }
 
+.carousel {
+  overflow: hidden;
+  border-radius: 0.3rem;
+}
+
 .nav-link:hover {
   box-shadow: inset 0 -2px var(--color-blue-light);
   margin-bottom: -2px;
