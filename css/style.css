@@ -22,6 +22,7 @@ main {
 .carousel {
   overflow: hidden;
   border-radius: 0.3rem;
+  margin-bottom: 0.5rem;
 }
 
 .nav-link:hover {
