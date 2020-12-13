@@ -38,7 +38,7 @@ main {
   background-color: var(--color-blue-light);
   border-radius: 0.3rem;
   overflow: hidden;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
   filter: brightness(95%);
   cursor: pointer;
